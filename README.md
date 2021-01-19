@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **0sidharth/0sidharth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--# Sidharth Mundhra-->
+
+<h2 align="left">Github stats</h2>
+
+<p align="left"><img src="https://profile-counter.glitch.me/{0sidharth}/count.svg" alt="0sidharth :: Visitor's Count" /></p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0sidharth&langs_count=10&theme=merko&layout=compact" alt="0sidharth :: Top Langs" /></p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=0sidharth&show_icons=true&theme=merko" alt="0sidharth :: Profile Stats" /></p>
